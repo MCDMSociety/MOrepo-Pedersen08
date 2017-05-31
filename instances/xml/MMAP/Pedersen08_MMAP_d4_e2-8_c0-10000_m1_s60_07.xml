@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--Assignment problem matrix for the bicriterion (multi modual) AP problem generated using the APMatGen generator
+Christian Roed Pedersen and Lars Relund Nielsen (c)-->
+<apmat dimension="4" version="1.0" costrange="1-10000" entryrange="2-8" seed="150548">
+    <cell row="0" column="0" entries="6">
+        <entry c1="1231" c2="8780"/>
+        <entry c1="1568" c2="7077"/>
+        <entry c1="2577" c2="5282"/>
+        <entry c1="2729" c2="4212"/>
+        <entry c1="3628" c2="1702"/>
+        <entry c1="4212" c2="592"/>
+    </cell>
+    <cell row="0" column="1" entries="4">
+        <entry c1="1343" c2="9186"/>
+        <entry c1="3956" c2="5129"/>
+        <entry c1="6668" c2="3002"/>
+        <entry c1="9775" c2="437"/>
+    </cell>
+    <cell row="0" column="2" entries="2">
+        <entry c1="3609" c2="7372"/>
+        <entry c1="7843" c2="2377"/>
+    </cell>
+    <cell row="0" column="3" entries="4">
+        <entry c1="1925" c2="8816"/>
+        <entry c1="2634" c2="7198"/>
+        <entry c1="2998" c2="4744"/>
+        <entry c1="4591" c2="3025"/>
+    </cell>
+    <cell row="1" column="0" entries="7">
+        <entry c1="1424" c2="9117"/>
+        <entry c1="1787" c2="7276"/>
+        <entry c1="2062" c2="5306"/>
+        <entry c1="3721" c2="3815"/>
+        <entry c1="5420" c2="2210"/>
+        <entry c1="5602" c2="1253"/>
+        <entry c1="7473" c2="381"/>
+    </cell>
+    <cell row="1" column="1" entries="8">
+        <entry c1="37" c2="9188"/>
+        <entry c1="54" c2="8045"/>
+        <entry c1="627" c2="6737"/>
+        <entry c1="812" c2="5888"/>
+        <entry c1="1755" c2="3854"/>
+        <entry c1="2637" c2="2790"/>
+        <entry c1="2769" c2="1872"/>
+        <entry c1="6502" c2="1000"/>
+    </cell>
+    <cell row="1" column="2" entries="5">
+        <entry c1="1320" c2="9760"/>
+        <entry c1="1671" c2="8157"/>
+        <entry c1="3046" c2="6010"/>
+        <entry c1="5317" c2="4039"/>
+        <entry c1="6997" c2="1945"/>
+    </cell>
+    <cell row="1" column="3" entries="4">
+        <entry c1="833" c2="9312"/>
+        <entry c1="3716" c2="7482"/>
+        <entry c1="4717" c2="5146"/>
+        <entry c1="5107" c2="2117"/>
+    </cell>
+    <cell row="2" column="0" entries="2">
+        <entry c1="480" c2="5977"/>
+        <entry c1="680" c2="883"/>
+    </cell>
+    <cell row="2" column="1" entries="8">
+        <entry c1="637" c2="9023"/>
+        <entry c1="949" c2="7395"/>
+        <entry c1="1192" c2="6159"/>
+        <entry c1="2715" c2="4783"/>
+        <entry c1="3469" c2="3205"/>
+        <entry c1="4075" c2="1854"/>
+        <entry c1="4329" c2="776"/>
+        <entry c1="5540" c2="17"/>
+    </cell>
+    <cell row="2" column="2" entries="6">
+        <entry c1="957" c2="9740"/>
+        <entry c1="2048" c2="7247"/>
+        <entry c1="3198" c2="6091"/>
+        <entry c1="3313" c2="3789"/>
+        <entry c1="5675" c2="1452"/>
+        <entry c1="8988" c2="369"/>
+    </cell>
+    <cell row="2" column="3" entries="2">
+        <entry c1="1030" c2="6352"/>
+        <entry c1="3457" c2="2142"/>
+    </cell>
+    <cell row="3" column="0" entries="4">
+        <entry c1="1678" c2="9839"/>
+        <entry c1="3046" c2="7660"/>
+        <entry c1="3083" c2="6042"/>
+        <entry c1="9178" c2="785"/>
+    </cell>
+    <cell row="3" column="1" entries="2">
+        <entry c1="548" c2="8427"/>
+        <entry c1="9558" c2="2605"/>
+    </cell>
+    <cell row="3" column="2" entries="3">
+        <entry c1="1761" c2="9734"/>
+        <entry c1="2734" c2="7581"/>
+        <entry c1="4378" c2="2843"/>
+    </cell>
+    <cell row="3" column="3" entries="3">
+        <entry c1="2737" c2="9236"/>
+        <entry c1="5354" c2="5634"/>
+        <entry c1="9067" c2="116"/>
+    </cell>
+</apmat>

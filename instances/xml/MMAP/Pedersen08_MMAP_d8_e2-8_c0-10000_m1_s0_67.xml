@@ -1,0 +1,460 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--Assignment problem matrix for the bicriterion (multi modual) AP problem generated using the APMatGen generator
+Christian Roed Pedersen and Lars Relund Nielsen (c)-->
+<apmat dimension="8" version="1.0" costrange="1-10000" entryrange="2-8" seed="1431318">
+    <cell row="0" column="0" entries="3">
+        <entry c1="2233" c2="8099"/>
+        <entry c1="5235" c2="7021"/>
+        <entry c1="8368" c2="1487"/>
+    </cell>
+    <cell row="0" column="1" entries="2">
+        <entry c1="762" c2="5343"/>
+        <entry c1="8005" c2="4842"/>
+    </cell>
+    <cell row="0" column="2" entries="8">
+        <entry c1="275" c2="9350"/>
+        <entry c1="1333" c2="8084"/>
+        <entry c1="1795" c2="7251"/>
+        <entry c1="1803" c2="7144"/>
+        <entry c1="2249" c2="6247"/>
+        <entry c1="4120" c2="4199"/>
+        <entry c1="6870" c2="2154"/>
+        <entry c1="7255" c2="1287"/>
+    </cell>
+    <cell row="0" column="3" entries="3">
+        <entry c1="1720" c2="7247"/>
+        <entry c1="2577" c2="7072"/>
+        <entry c1="7071" c2="1537"/>
+    </cell>
+    <cell row="0" column="4" entries="4">
+        <entry c1="1253" c2="8370"/>
+        <entry c1="3348" c2="5843"/>
+        <entry c1="6337" c2="5220"/>
+        <entry c1="8789" c2="1498"/>
+    </cell>
+    <cell row="0" column="5" entries="8">
+        <entry c1="1130" c2="9801"/>
+        <entry c1="2247" c2="8877"/>
+        <entry c1="3171" c2="8237"/>
+        <entry c1="3358" c2="8027"/>
+        <entry c1="4813" c2="7137"/>
+        <entry c1="6282" c2="5383"/>
+        <entry c1="7524" c2="4124"/>
+        <entry c1="9971" c2="1924"/>
+    </cell>
+    <cell row="0" column="6" entries="2">
+        <entry c1="4622" c2="9034"/>
+        <entry c1="7772" c2="4452"/>
+    </cell>
+    <cell row="0" column="7" entries="3">
+        <entry c1="2229" c2="9947"/>
+        <entry c1="2534" c2="5354"/>
+        <entry c1="8037" c2="4837"/>
+    </cell>
+    <cell row="1" column="0" entries="3">
+        <entry c1="2387" c2="9793"/>
+        <entry c1="4225" c2="8387"/>
+        <entry c1="9463" c2="6229"/>
+    </cell>
+    <cell row="1" column="1" entries="3">
+        <entry c1="2353" c2="7556"/>
+        <entry c1="4557" c2="5704"/>
+        <entry c1="5233" c2="4078"/>
+    </cell>
+    <cell row="1" column="2" entries="8">
+        <entry c1="615" c2="9583"/>
+        <entry c1="1947" c2="8479"/>
+        <entry c1="3269" c2="7547"/>
+        <entry c1="4499" c2="7478"/>
+        <entry c1="5332" c2="6912"/>
+        <entry c1="5949" c2="4736"/>
+        <entry c1="7971" c2="2915"/>
+        <entry c1="8899" c2="2706"/>
+    </cell>
+    <cell row="1" column="3" entries="7">
+        <entry c1="882" c2="9902"/>
+        <entry c1="1276" c2="9341"/>
+        <entry c1="2867" c2="7618"/>
+        <entry c1="4305" c2="7181"/>
+        <entry c1="4693" c2="5178"/>
+        <entry c1="6495" c2="3995"/>
+        <entry c1="9054" c2="196"/>
+    </cell>
+    <cell row="1" column="4" entries="5">
+        <entry c1="47" c2="9323"/>
+        <entry c1="435" c2="9221"/>
+        <entry c1="1270" c2="8995"/>
+        <entry c1="2939" c2="5524"/>
+        <entry c1="6046" c2="1527"/>
+    </cell>
+    <cell row="1" column="5" entries="5">
+        <entry c1="1107" c2="8127"/>
+        <entry c1="2609" c2="6300"/>
+        <entry c1="4869" c2="5260"/>
+        <entry c1="6963" c2="2733"/>
+        <entry c1="8630" c2="2639"/>
+    </cell>
+    <cell row="1" column="6" entries="2">
+        <entry c1="1232" c2="9900"/>
+        <entry c1="9419" c2="4367"/>
+    </cell>
+    <cell row="1" column="7" entries="5">
+        <entry c1="1370" c2="9826"/>
+        <entry c1="1387" c2="8008"/>
+        <entry c1="3846" c2="6869"/>
+        <entry c1="5379" c2="6454"/>
+        <entry c1="5920" c2="3201"/>
+    </cell>
+    <cell row="2" column="0" entries="7">
+        <entry c1="371" c2="9526"/>
+        <entry c1="987" c2="8157"/>
+        <entry c1="2413" c2="6571"/>
+        <entry c1="2704" c2="5192"/>
+        <entry c1="3217" c2="4143"/>
+        <entry c1="6419" c2="3614"/>
+        <entry c1="9074" c2="2852"/>
+    </cell>
+    <cell row="2" column="1" entries="5">
+        <entry c1="319" c2="9984"/>
+        <entry c1="461" c2="8982"/>
+        <entry c1="1017" c2="6047"/>
+        <entry c1="5042" c2="3204"/>
+        <entry c1="6826" c2="847"/>
+    </cell>
+    <cell row="2" column="2" entries="8">
+        <entry c1="1094" c2="9663"/>
+        <entry c1="2138" c2="9398"/>
+        <entry c1="3150" c2="9053"/>
+        <entry c1="4220" c2="7660"/>
+        <entry c1="4648" c2="6632"/>
+        <entry c1="6180" c2="5550"/>
+        <entry c1="7977" c2="4038"/>
+        <entry c1="9753" c2="3814"/>
+    </cell>
+    <cell row="2" column="3" entries="6">
+        <entry c1="940" c2="8336"/>
+        <entry c1="1723" c2="8063"/>
+        <entry c1="1939" c2="7900"/>
+        <entry c1="2146" c2="7592"/>
+        <entry c1="2898" c2="5629"/>
+        <entry c1="8701" c2="4137"/>
+    </cell>
+    <cell row="2" column="4" entries="7">
+        <entry c1="566" c2="8684"/>
+        <entry c1="1341" c2="7412"/>
+        <entry c1="2160" c2="6303"/>
+        <entry c1="3529" c2="5115"/>
+        <entry c1="3907" c2="4076"/>
+        <entry c1="4098" c2="3668"/>
+        <entry c1="4758" c2="2703"/>
+    </cell>
+    <cell row="2" column="5" entries="2">
+        <entry c1="4913" c2="5112"/>
+        <entry c1="7694" c2="4250"/>
+    </cell>
+    <cell row="2" column="6" entries="6">
+        <entry c1="600" c2="9391"/>
+        <entry c1="993" c2="8796"/>
+        <entry c1="1930" c2="7195"/>
+        <entry c1="4279" c2="5009"/>
+        <entry c1="5210" c2="3088"/>
+        <entry c1="9293" c2="1563"/>
+    </cell>
+    <cell row="2" column="7" entries="5">
+        <entry c1="485" c2="9755"/>
+        <entry c1="1716" c2="9142"/>
+        <entry c1="2172" c2="9002"/>
+        <entry c1="4424" c2="6719"/>
+        <entry c1="5348" c2="2898"/>
+    </cell>
+    <cell row="3" column="0" entries="3">
+        <entry c1="230" c2="7369"/>
+        <entry c1="3564" c2="3895"/>
+        <entry c1="9472" c2="2409"/>
+    </cell>
+    <cell row="3" column="1" entries="5">
+        <entry c1="1697" c2="9897"/>
+        <entry c1="2337" c2="7644"/>
+        <entry c1="3031" c2="7413"/>
+        <entry c1="4252" c2="6383"/>
+        <entry c1="5512" c2="6351"/>
+    </cell>
+    <cell row="3" column="2" entries="6">
+        <entry c1="249" c2="9753"/>
+        <entry c1="1881" c2="9720"/>
+        <entry c1="3516" c2="9210"/>
+        <entry c1="5285" c2="9195"/>
+        <entry c1="7231" c2="6589"/>
+        <entry c1="9678" c2="2643"/>
+    </cell>
+    <cell row="3" column="3" entries="5">
+        <entry c1="137" c2="8200"/>
+        <entry c1="1233" c2="7083"/>
+        <entry c1="2832" c2="6133"/>
+        <entry c1="2948" c2="5460"/>
+        <entry c1="4940" c2="5308"/>
+    </cell>
+    <cell row="3" column="4" entries="7">
+        <entry c1="494" c2="9801"/>
+        <entry c1="1936" c2="9427"/>
+        <entry c1="2261" c2="7770"/>
+        <entry c1="3816" c2="7545"/>
+        <entry c1="4254" c2="7532"/>
+        <entry c1="5031" c2="4218"/>
+        <entry c1="8574" c2="2090"/>
+    </cell>
+    <cell row="3" column="5" entries="3">
+        <entry c1="2243" c2="8972"/>
+        <entry c1="3046" c2="6434"/>
+        <entry c1="5624" c2="3883"/>
+    </cell>
+    <cell row="3" column="6" entries="5">
+        <entry c1="1149" c2="8550"/>
+        <entry c1="3245" c2="7924"/>
+        <entry c1="3928" c2="7808"/>
+        <entry c1="5256" c2="6907"/>
+        <entry c1="6092" c2="4619"/>
+    </cell>
+    <cell row="3" column="7" entries="6">
+        <entry c1="222" c2="8994"/>
+        <entry c1="541" c2="8323"/>
+        <entry c1="584" c2="6301"/>
+        <entry c1="2665" c2="4818"/>
+        <entry c1="6304" c2="3421"/>
+        <entry c1="9308" c2="1057"/>
+    </cell>
+    <cell row="4" column="0" entries="8">
+        <entry c1="1007" c2="8958"/>
+        <entry c1="1303" c2="8388"/>
+        <entry c1="2664" c2="8108"/>
+        <entry c1="3206" c2="7032"/>
+        <entry c1="4379" c2="6750"/>
+        <entry c1="5480" c2="5761"/>
+        <entry c1="6189" c2="5569"/>
+        <entry c1="6410" c2="669"/>
+    </cell>
+    <cell row="4" column="1" entries="7">
+        <entry c1="432" c2="9718"/>
+        <entry c1="1787" c2="8653"/>
+        <entry c1="3034" c2="7309"/>
+        <entry c1="4396" c2="6240"/>
+        <entry c1="4933" c2="5450"/>
+        <entry c1="5164" c2="3058"/>
+        <entry c1="9758" c2="198"/>
+    </cell>
+    <cell row="4" column="2" entries="6">
+        <entry c1="806" c2="8369"/>
+        <entry c1="1836" c2="7738"/>
+        <entry c1="3536" c2="6518"/>
+        <entry c1="5571" c2="6390"/>
+        <entry c1="6815" c2="5246"/>
+        <entry c1="9371" c2="4371"/>
+    </cell>
+    <cell row="4" column="3" entries="6">
+        <entry c1="1153" c2="9023"/>
+        <entry c1="1830" c2="7904"/>
+        <entry c1="2996" c2="7269"/>
+        <entry c1="4024" c2="6379"/>
+        <entry c1="5396" c2="4290"/>
+        <entry c1="9100" c2="2237"/>
+    </cell>
+    <cell row="4" column="4" entries="8">
+        <entry c1="604" c2="9609"/>
+        <entry c1="1079" c2="9496"/>
+        <entry c1="2332" c2="9452"/>
+        <entry c1="2823" c2="7633"/>
+        <entry c1="4147" c2="6223"/>
+        <entry c1="5265" c2="5145"/>
+        <entry c1="5600" c2="4030"/>
+        <entry c1="9520" c2="701"/>
+    </cell>
+    <cell row="4" column="5" entries="2">
+        <entry c1="1692" c2="5429"/>
+        <entry c1="3455" c2="2077"/>
+    </cell>
+    <cell row="4" column="6" entries="7">
+        <entry c1="117" c2="8802"/>
+        <entry c1="901" c2="8265"/>
+        <entry c1="1359" c2="8117"/>
+        <entry c1="3265" c2="6203"/>
+        <entry c1="3456" c2="4425"/>
+        <entry c1="4362" c2="2413"/>
+        <entry c1="6307" c2="487"/>
+    </cell>
+    <cell row="4" column="7" entries="4">
+        <entry c1="2095" c2="9749"/>
+        <entry c1="2612" c2="9370"/>
+        <entry c1="3917" c2="4891"/>
+        <entry c1="4716" c2="1017"/>
+    </cell>
+    <cell row="5" column="0" entries="5">
+        <entry c1="236" c2="8177"/>
+        <entry c1="2542" c2="6536"/>
+        <entry c1="4630" c2="6083"/>
+        <entry c1="6109" c2="3653"/>
+        <entry c1="9642" c2="1450"/>
+    </cell>
+    <cell row="5" column="1" entries="7">
+        <entry c1="530" c2="9006"/>
+        <entry c1="570" c2="7905"/>
+        <entry c1="676" c2="7340"/>
+        <entry c1="1592" c2="6844"/>
+        <entry c1="2933" c2="4825"/>
+        <entry c1="4847" c2="3542"/>
+        <entry c1="6091" c2="58"/>
+    </cell>
+    <cell row="5" column="2" entries="3">
+        <entry c1="1157" c2="7181"/>
+        <entry c1="2714" c2="5623"/>
+        <entry c1="9364" c2="1518"/>
+    </cell>
+    <cell row="5" column="3" entries="8">
+        <entry c1="337" c2="8855"/>
+        <entry c1="1310" c2="7789"/>
+        <entry c1="1608" c2="7444"/>
+        <entry c1="2801" c2="6438"/>
+        <entry c1="3424" c2="5340"/>
+        <entry c1="4219" c2="5152"/>
+        <entry c1="5943" c2="3897"/>
+        <entry c1="8262" c2="3246"/>
+    </cell>
+    <cell row="5" column="4" entries="7">
+        <entry c1="697" c2="8925"/>
+        <entry c1="1432" c2="7683"/>
+        <entry c1="1539" c2="7034"/>
+        <entry c1="2223" c2="6900"/>
+        <entry c1="4410" c2="5711"/>
+        <entry c1="5726" c2="5368"/>
+        <entry c1="7575" c2="2166"/>
+    </cell>
+    <cell row="5" column="5" entries="3">
+        <entry c1="1562" c2="7965"/>
+        <entry c1="4956" c2="4629"/>
+        <entry c1="5326" c2="3502"/>
+    </cell>
+    <cell row="5" column="6" entries="4">
+        <entry c1="144" c2="7679"/>
+        <entry c1="1075" c2="6482"/>
+        <entry c1="1828" c2="5067"/>
+        <entry c1="6182" c2="18"/>
+    </cell>
+    <cell row="5" column="7" entries="8">
+        <entry c1="269" c2="9541"/>
+        <entry c1="1335" c2="9367"/>
+        <entry c1="2198" c2="8811"/>
+        <entry c1="2759" c2="8348"/>
+        <entry c1="4446" c2="7845"/>
+        <entry c1="5754" c2="6438"/>
+        <entry c1="7069" c2="4034"/>
+        <entry c1="9364" c2="3567"/>
+    </cell>
+    <cell row="6" column="0" entries="7">
+        <entry c1="688" c2="9214"/>
+        <entry c1="846" c2="8536"/>
+        <entry c1="1641" c2="8126"/>
+        <entry c1="2063" c2="6731"/>
+        <entry c1="4201" c2="5665"/>
+        <entry c1="4772" c2="4003"/>
+        <entry c1="8747" c2="3444"/>
+    </cell>
+    <cell row="6" column="1" entries="6">
+        <entry c1="1435" c2="9935"/>
+        <entry c1="1621" c2="9293"/>
+        <entry c1="2395" c2="9084"/>
+        <entry c1="4881" c2="6964"/>
+        <entry c1="4928" c2="5849"/>
+        <entry c1="9256" c2="4739"/>
+    </cell>
+    <cell row="6" column="2" entries="8">
+        <entry c1="167" c2="9777"/>
+        <entry c1="1338" c2="8761"/>
+        <entry c1="2556" c2="8153"/>
+        <entry c1="3251" c2="7224"/>
+        <entry c1="4098" c2="6176"/>
+        <entry c1="5877" c2="4616"/>
+        <entry c1="6499" c2="3731"/>
+        <entry c1="9765" c2="3107"/>
+    </cell>
+    <cell row="6" column="3" entries="2">
+        <entry c1="4746" c2="5992"/>
+        <entry c1="5584" c2="5571"/>
+    </cell>
+    <cell row="6" column="4" entries="4">
+        <entry c1="682" c2="7780"/>
+        <entry c1="2477" c2="7351"/>
+        <entry c1="3417" c2="5344"/>
+        <entry c1="8563" c2="1216"/>
+    </cell>
+    <cell row="6" column="5" entries="2">
+        <entry c1="769" c2="5421"/>
+        <entry c1="3222" c2="4366"/>
+    </cell>
+    <cell row="6" column="6" entries="7">
+        <entry c1="585" c2="9253"/>
+        <entry c1="1445" c2="8924"/>
+        <entry c1="1777" c2="7147"/>
+        <entry c1="2339" c2="6690"/>
+        <entry c1="4808" c2="4678"/>
+        <entry c1="4825" c2="2389"/>
+        <entry c1="9055" c2="1943"/>
+    </cell>
+    <cell row="6" column="7" entries="5">
+        <entry c1="164" c2="8310"/>
+        <entry c1="2373" c2="6965"/>
+        <entry c1="4156" c2="5313"/>
+        <entry c1="4680" c2="5085"/>
+        <entry c1="6527" c2="2358"/>
+    </cell>
+    <cell row="7" column="0" entries="8">
+        <entry c1="483" c2="9997"/>
+        <entry c1="1424" c2="9979"/>
+        <entry c1="1717" c2="9817"/>
+        <entry c1="2181" c2="9307"/>
+        <entry c1="3541" c2="8455"/>
+        <entry c1="4879" c2="6580"/>
+        <entry c1="5810" c2="5863"/>
+        <entry c1="8798" c2="2710"/>
+    </cell>
+    <cell row="7" column="1" entries="2">
+        <entry c1="2030" c2="6017"/>
+        <entry c1="6654" c2="3343"/>
+    </cell>
+    <cell row="7" column="2" entries="2">
+        <entry c1="2148" c2="7051"/>
+        <entry c1="2765" c2="517"/>
+    </cell>
+    <cell row="7" column="3" entries="5">
+        <entry c1="521" c2="9155"/>
+        <entry c1="562" c2="7441"/>
+        <entry c1="2054" c2="7271"/>
+        <entry c1="4288" c2="3983"/>
+        <entry c1="9243" c2="67"/>
+    </cell>
+    <cell row="7" column="4" entries="5">
+        <entry c1="1896" c2="9376"/>
+        <entry c1="2588" c2="9251"/>
+        <entry c1="4264" c2="7813"/>
+        <entry c1="5736" c2="4831"/>
+        <entry c1="8760" c2="3650"/>
+    </cell>
+    <cell row="7" column="5" entries="4">
+        <entry c1="2158" c2="7904"/>
+        <entry c1="3511" c2="6125"/>
+        <entry c1="4606" c2="5606"/>
+        <entry c1="7366" c2="1965"/>
+    </cell>
+    <cell row="7" column="6" entries="5">
+        <entry c1="105" c2="8545"/>
+        <entry c1="2368" c2="7672"/>
+        <entry c1="2657" c2="7175"/>
+        <entry c1="2793" c2="6919"/>
+        <entry c1="6665" c2="5808"/>
+    </cell>
+    <cell row="7" column="7" entries="5">
+        <entry c1="1582" c2="8867"/>
+        <entry c1="3457" c2="8811"/>
+        <entry c1="4187" c2="8756"/>
+        <entry c1="5559" c2="8262"/>
+        <entry c1="9623" c2="199"/>
+    </cell>
+</apmat>
