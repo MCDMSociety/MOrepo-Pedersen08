@@ -31,3 +31,30 @@ system("xsltproc --output AP_instance_tuyttens.raw convert_to_tuyttens.xsl AP_in
 ```
 
 which generates file [AP\_instance\_tuyttens.raw](./AP_instance_tuyttens.raw) from the xml file [AP\_instance.xml](./AP_instance.xml).
+
+Converting multi modal assignment problems to a raw format
+==========================================================
+
+The biMMAP instances can be converted to a raw format using stylesheet `convert_mmap.xsl`. From R (or commandline) run:
+
+``` r
+system("xsltproc --output MMAP_instance.raw convert_mmap.xsl MMAP_instance.xml")
+```
+
+which generates file [MMAP\_instance.raw](./MMAP_instance.raw) from the xml file [MMAP\_instance.xml](./MMAP_instance.xml). Here a instance have the following format:
+
+    c <c indicate comment line>
+    d <dimension> 
+    <row> <column> <entries> 
+    <cost1 first entry> <cost2 first entry>
+    ...
+    <cost1 last entry> <cost2 last entry>
+
+    ...
+
+    <row> <column> <entries> 
+    <cost1 first entry> <cost2 first entry>
+    ...
+    <cost1 last entry> <cost2 last entry>
+
+The biMMAP instances can be converted to this format using stylesheet `convert_.xsl`. From R (or commandline) run:
