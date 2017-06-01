@@ -57,4 +57,4 @@ which generates file [MMAP\_instance.raw](./MMAP_instance.raw) from the xml file
     ...
     <cost1 last entry> <cost2 last entry>
 
-The biMMAP instances can be converted to this format using stylesheet `convert_.xsl`. From R (or commandline) run:
+The biMMAP instances can be converted to this format using stylesheet `convert_mmap.xsl`. From R (or commandline) run:
