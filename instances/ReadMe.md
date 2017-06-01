@@ -41,7 +41,7 @@ following 80 possible configurations were generated:
 
 The instance files are not in a plain text format. However, if you would like to convert an instance
 to plain text file then the xml file may be converted using an xslt stylesheet. For more details 
-see the [ReadMe.md](./convert/ReadMe.md) file in the `convert` folder.
+see the [ReadMe.md](../convert/ReadMe.md) file in the `convert` folder.
 
 
 
