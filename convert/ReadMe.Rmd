@@ -41,6 +41,7 @@ R (or commandline) run:
 system("xsltproc --output AP_instance_tuyttens.raw convert_to_tuyttens.xsl AP_instance.xml")
 ```
 
-which generated file [AP_instance_tuyttens.raw](./AP_instance_tuyttens.raw).
+which generates file [AP_instance_tuyttens.raw](./AP_instance_tuyttens.raw) from the xml file 
+[AP_instance.xml](./AP_instance.xml).
 
 

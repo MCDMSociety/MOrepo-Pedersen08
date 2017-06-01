@@ -30,4 +30,4 @@ The biAP instances can be converted to this format using stylesheet `convert_to_
 system("xsltproc --output AP_instance_tuyttens.raw convert_to_tuyttens.xsl AP_instance.xml")
 ```
 
-which generated file [AP\_instance\_tuyttens.raw](./AP_instance_tuyttens.raw).
+which generates file [AP\_instance\_tuyttens.raw](./AP_instance_tuyttens.raw) from the xml file [AP\_instance.xml](./AP_instance.xml).
