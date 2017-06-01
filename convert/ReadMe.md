@@ -2,7 +2,7 @@
 Converting xml files to plain text format
 =========================================
 
-The instance files are in xml format but can be converted to a plain text file using an xslt stylesheet. You need a stylesheet xml parser such as [xsltproc](http://xmlsoft.org/XSLT/xsltproc2.html).
+The instance files are in xml format but can be converted to a plain text file using an xslt style sheet. You need a style sheet xml parser such as [xsltproc](http://xmlsoft.org/XSLT/xsltproc2.html).
 
 Convert assignment problems to Tuyttens raw format
 --------------------------------------------------
@@ -24,7 +24,7 @@ where
 -   *n* = dimension/size
 -   *c*<sub>*r*, *c*</sub><sup>*k*</sup> = *k*'th cost of assigning row *r* to column *c*.
 
-The biAP instances can be converted to this format using stylesheet `convert_to_tuyttens.xsl`. From R (or commandline) run:
+The biAP instances can be converted to this format using style sheet `convert_to_tuyttens.xsl`. From R (or command line) run:
 
 ``` r
 system("xsltproc --output AP_instance_tuyttens.raw convert_to_tuyttens.xsl AP_instance.xml")
@@ -35,7 +35,7 @@ which generates file [AP\_instance\_tuyttens.raw](./AP_instance_tuyttens.raw) fr
 Converting multi modal assignment problems to a raw format
 ==========================================================
 
-The biMMAP instances can be converted to a raw format using stylesheet `convert_mmap.xsl`. From R (or commandline) run:
+The biMMAP instances can be converted to a raw format using style sheet `convert_mmap.xsl`. From R (or command line) run:
 
 ``` r
 system("xsltproc --output MMAP_instance.raw convert_mmap.xsl MMAP_instance.xml")
@@ -57,4 +57,4 @@ which generates file [MMAP\_instance.raw](./MMAP_instance.raw) from the xml file
     ...
     <cost1 last entry> <cost2 last entry>
 
-The biMMAP instances can be converted to this format using stylesheet `convert_mmap.xsl`. From R (or commandline) run:
+The biMMAP instances can be converted to this format using style sheet `convert_mmap.xsl`. From R (or command line) run:

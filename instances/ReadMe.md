@@ -10,7 +10,7 @@ how these files were generated consult the
 
 ## Assignment problems (AP)
 
-The instances are contained in the subfolder `AP`. Instances are named 
+The instances are contained in the sub folder `AP`. Instances are named 
 
 - `Pedersen08_AP_d<n>_c0-1000_<Y>.xml` where `Y` is the instance number of a BiAP of size `n` with 
    negatively correlated costs. Cost range is [0,1000].
@@ -23,7 +23,7 @@ correlated cost.
 
 ## Multi modal assignment problems (MMAP)
 
-The instances are contained in the subfolder `MMAP`. Instances are named
+The instances are contained in the sub folder `MMAP`. Instances are named
 `Pedersen08_MMAP_d<n>_e<I1>_c<I2>_m<M>_s<S>_<Y>.xml` where `Y` is the instance number of a BiMMAP of
 size $n$ with entry range `I1` and cost range `I2` using method `M` and shape `S`.
 
@@ -40,7 +40,7 @@ following 80 possible configurations were generated:
 ## Raw format description
 
 The instance files are not in a plain text format. However, if you would like to convert an instance
-to plain text file then the xml file may be converted using an xslt stylesheet. For more details 
+to plain text file then the xml file may be converted using an xslt style sheet. For more details 
 see the [ReadMe.md](../convert/ReadMe.md) file in the `convert` folder.
 
 
