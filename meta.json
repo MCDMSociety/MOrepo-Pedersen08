@@ -1,0 +1,22 @@
+{
+   "folder": "Pedersen08",
+   "maintainer" : "Lars Relund <junk@relund.dk>",
+   "instanceGroups": [
+      {
+         "subfolder": "AP",
+         "class": "Assignment problem",
+         "tags": [ "ap", "assignmentProblem", "bi-AP"],
+         "format": [ "xml" ],
+         "desc": "Instances for the bi-objective assignment problem.",
+         "creator" : "Lars Relund <junk@relund.dk>"
+      },
+      {
+         "subfolder": "MMAP",
+         "class": "Facility location",
+         "tags": [ "bi-MMAP", "MMAP", "multi-modal" ],
+         "format": [ "xml" ],
+         "desc": "Instances for the bi-objective multi-modal assignment problem.",
+         "creator" : "Lars Relund <junk@relund.dk>"
+      }
+   ]
+}
