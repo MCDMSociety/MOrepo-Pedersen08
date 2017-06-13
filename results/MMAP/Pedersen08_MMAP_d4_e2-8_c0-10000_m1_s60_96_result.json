@@ -1,0 +1,125 @@
+{
+  "contributionName": "Pedersen08",
+  "objectives": 2,
+  "objectiveType": ["int", "int"],
+  "direction": ["min", "min"],
+  "comments": "Results from the paper by Pedersen et. al (2008)",
+  "optimal": true,
+  "cpu": {
+    "sec": 0,
+    "machineSpec": "Intel Xeon 2.67 GHz, 6 GB RAM, Red Hat Enterprise Linux v4.0 OS"
+  },
+  "valid": true,
+  "version": "1.0",
+  "instanceName": "Pedersen08_MMAP_d4_e2-8_c0-10000_m1_s60_96",
+  "suppCard": 9,
+  "extCard": 9,
+  "card": 21,
+  "points": [
+    {
+      "z1": 1915,
+      "z2": 32605,
+      "type": "se"
+    },
+    {
+      "z1": 2112,
+      "z2": 30703,
+      "type": "us"
+    },
+    {
+      "z1": 2420,
+      "z2": 26038,
+      "type": "se"
+    },
+    {
+      "z1": 4226,
+      "z2": 24730,
+      "type": "us"
+    },
+    {
+      "z1": 4287,
+      "z2": 22867,
+      "type": "us"
+    },
+    {
+      "z1": 4534,
+      "z2": 20065,
+      "type": "se"
+    },
+    {
+      "z1": 5549,
+      "z2": 18051,
+      "type": "se"
+    },
+    {
+      "z1": 6454,
+      "z2": 17228,
+      "type": "us"
+    },
+    {
+      "z1": 7469,
+      "z2": 15214,
+      "type": "us"
+    },
+    {
+      "z1": 8858,
+      "z2": 15104,
+      "type": "us"
+    },
+    {
+      "z1": 9105,
+      "z2": 12302,
+      "type": "us"
+    },
+    {
+      "z1": 10120,
+      "z2": 10288,
+      "type": "se"
+    },
+    {
+      "z1": 11025,
+      "z2": 9465,
+      "type": "us"
+    },
+    {
+      "z1": 12040,
+      "z2": 7451,
+      "type": "se"
+    },
+    {
+      "z1": 14606,
+      "z2": 7342,
+      "type": "us"
+    },
+    {
+      "z1": 15010,
+      "z2": 5641,
+      "type": "us"
+    },
+    {
+      "z1": 15700,
+      "z2": 4817,
+      "type": "us"
+    },
+    {
+      "z1": 16713,
+      "z2": 3959,
+      "type": "us"
+    },
+    {
+      "z1": 17310,
+      "z2": 2652,
+      "type": "se"
+    },
+    {
+      "z1": 21328,
+      "z2": 1575,
+      "type": "se"
+    },
+    {
+      "z1": 27639,
+      "z2": 1533,
+      "type": "se"
+    }
+  ]
+}

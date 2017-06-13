@@ -1,0 +1,185 @@
+{
+  "contributionName": "Pedersen08",
+  "objectives": 2,
+  "objectiveType": ["int", "int"],
+  "direction": ["min", "min"],
+  "comments": "Results from the paper by Pedersen et. al (2008)",
+  "optimal": true,
+  "cpu": {
+    "sec": 0.01,
+    "machineSpec": "Intel Xeon 2.67 GHz, 6 GB RAM, Red Hat Enterprise Linux v4.0 OS"
+  },
+  "valid": true,
+  "version": "1.0",
+  "instanceName": "Pedersen08_MMAP_d4_e2-8_c0-500_m1_s0_32",
+  "suppCard": 7,
+  "extCard": 7,
+  "card": 33,
+  "points": [
+    {
+      "z1": 163,
+      "z2": 1771,
+      "type": "se"
+    },
+    {
+      "z1": 197,
+      "z2": 1726,
+      "type": "us"
+    },
+    {
+      "z1": 220,
+      "z2": 1666,
+      "type": "us"
+    },
+    {
+      "z1": 235,
+      "z2": 1528,
+      "type": "se"
+    },
+    {
+      "z1": 292,
+      "z2": 1423,
+      "type": "se"
+    },
+    {
+      "z1": 354,
+      "z2": 1359,
+      "type": "us"
+    },
+    {
+      "z1": 367,
+      "z2": 1355,
+      "type": "us"
+    },
+    {
+      "z1": 371,
+      "z2": 1344,
+      "type": "us"
+    },
+    {
+      "z1": 405,
+      "z2": 1342,
+      "type": "us"
+    },
+    {
+      "z1": 407,
+      "z2": 1274,
+      "type": "us"
+    },
+    {
+      "z1": 408,
+      "z2": 1242,
+      "type": "us"
+    },
+    {
+      "z1": 463,
+      "z2": 1217,
+      "type": "us"
+    },
+    {
+      "z1": 473,
+      "z2": 1178,
+      "type": "us"
+    },
+    {
+      "z1": 503,
+      "z2": 1136,
+      "type": "us"
+    },
+    {
+      "z1": 513,
+      "z2": 1135,
+      "type": "us"
+    },
+    {
+      "z1": 514,
+      "z2": 1060,
+      "type": "us"
+    },
+    {
+      "z1": 518,
+      "z2": 1049,
+      "type": "us"
+    },
+    {
+      "z1": 533,
+      "z2": 1010,
+      "type": "us"
+    },
+    {
+      "z1": 567,
+      "z2": 1008,
+      "type": "us"
+    },
+    {
+      "z1": 573,
+      "z2": 929,
+      "type": "us"
+    },
+    {
+      "z1": 610,
+      "z2": 922,
+      "type": "us"
+    },
+    {
+      "z1": 620,
+      "z2": 921,
+      "type": "us"
+    },
+    {
+      "z1": 669,
+      "z2": 824,
+      "type": "us"
+    },
+    {
+      "z1": 680,
+      "z2": 715,
+      "type": "se"
+    },
+    {
+      "z1": 750,
+      "z2": 677,
+      "type": "us"
+    },
+    {
+      "z1": 846,
+      "z2": 592,
+      "type": "us"
+    },
+    {
+      "z1": 857,
+      "z2": 463,
+      "type": "se"
+    },
+    {
+      "z1": 1145,
+      "z2": 452,
+      "type": "us"
+    },
+    {
+      "z1": 1152,
+      "z2": 405,
+      "type": "us"
+    },
+    {
+      "z1": 1190,
+      "z2": 365,
+      "type": "us"
+    },
+    {
+      "z1": 1241,
+      "z2": 293,
+      "type": "us"
+    },
+    {
+      "z1": 1262,
+      "z2": 283,
+      "type": "se"
+    },
+    {
+      "z1": 1532,
+      "z2": 202,
+      "type": "se"
+    }
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "contributionName": "Pedersen08",
+  "objectives": 2,
+  "objectiveType": ["int", "int"],
+  "direction": ["min", "min"],
+  "comments": "Results from the paper by Pedersen et. al (2008)",
+  "optimal": true,
+  "cpu": {
+    "sec": 0,
+    "machineSpec": "Intel Xeon 2.67 GHz, 6 GB RAM, Red Hat Enterprise Linux v4.0 OS"
+  },
+  "valid": true,
+  "version": "1.0",
+  "instanceName": "AP_d10_c0-1000_non_84",
+  "suppCard": 4,
+  "extCard": 4,
+  "card": 26,
+  "points": [
+    {
+      "z1": 1451,
+      "z2": 5097,
+      "type": "se"
+    },
+    {
+      "z1": 1779,
+      "z2": 5025,
+      "type": "us"
+    },
+    {
+      "z1": 1817,
+      "z2": 4755,
+      "type": "us"
+    },
+    {
+      "z1": 1946,
+      "z2": 4541,
+      "type": "us"
+    },
+    {
+      "z1": 1955,
+      "z2": 4540,
+      "type": "us"
+    },
+    {
+      "z1": 2034,
+      "z2": 4521,
+      "type": "us"
+    },
+    {
+      "z1": 2040,
+      "z2": 4388,
+      "type": "us"
+    },
+    {
+      "z1": 2126,
+      "z2": 4092,
+      "type": "us"
+    },
+    {
+      "z1": 2378,
+      "z2": 3916,
+      "type": "us"
+    },
+    {
+      "z1": 2409,
+      "z2": 3831,
+      "type": "us"
+    },
+    {
+      "z1": 2460,
+      "z2": 3806,
+      "type": "us"
+    },
+    {
+      "z1": 2466,
+      "z2": 3792,
+      "type": "us"
+    },
+    {
+      "z1": 2531,
+      "z2": 3332,
+      "type": "se"
+    },
+    {
+      "z1": 2895,
+      "z2": 3268,
+      "type": "us"
+    },
+    {
+      "z1": 2921,
+      "z2": 3184,
+      "type": "us"
+    },
+    {
+      "z1": 3052,
+      "z2": 3179,
+      "type": "us"
+    },
+    {
+      "z1": 3053,
+      "z2": 2911,
+      "type": "us"
+    },
+    {
+      "z1": 3134,
+      "z2": 2871,
+      "type": "us"
+    },
+    {
+      "z1": 3336,
+      "z2": 2650,
+      "type": "us"
+    },
+    {
+      "z1": 3435,
+      "z2": 2449,
+      "type": "us"
+    },
+    {
+      "z1": 3458,
+      "z2": 2151,
+      "type": "se"
+    },
+    {
+      "z1": 3717,
+      "z2": 2114,
+      "type": "us"
+    },
+    {
+      "z1": 4036,
+      "z2": 2041,
+      "type": "us"
+    },
+    {
+      "z1": 4295,
+      "z2": 2004,
+      "type": "us"
+    },
+    {
+      "z1": 4732,
+      "z2": 1920,
+      "type": "us"
+    },
+    {
+      "z1": 5018,
+      "z2": 1799,
+      "type": "se"
+    }
+  ]
+}

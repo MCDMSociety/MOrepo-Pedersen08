@@ -1,0 +1,105 @@
+{
+  "contributionName": "Pedersen08",
+  "objectives": 2,
+  "objectiveType": ["int", "int"],
+  "direction": ["min", "min"],
+  "comments": "Results from the paper by Pedersen et. al (2008)",
+  "optimal": true,
+  "cpu": {
+    "sec": 0,
+    "machineSpec": "Intel Xeon 2.67 GHz, 6 GB RAM, Red Hat Enterprise Linux v4.0 OS"
+  },
+  "valid": true,
+  "version": "1.0",
+  "instanceName": "Pedersen08_AP_d5_c0-1000_73",
+  "suppCard": 5,
+  "extCard": 5,
+  "card": 17,
+  "points": [
+    {
+      "z1": 1475,
+      "z2": 3726,
+      "type": "se"
+    },
+    {
+      "z1": 1732,
+      "z2": 3702,
+      "type": "us"
+    },
+    {
+      "z1": 1764,
+      "z2": 3021,
+      "type": "se"
+    },
+    {
+      "z1": 1943,
+      "z2": 2915,
+      "type": "us"
+    },
+    {
+      "z1": 2009,
+      "z2": 2885,
+      "type": "us"
+    },
+    {
+      "z1": 2117,
+      "z2": 2346,
+      "type": "us"
+    },
+    {
+      "z1": 2330,
+      "z2": 2183,
+      "type": "us"
+    },
+    {
+      "z1": 2359,
+      "z2": 1990,
+      "type": "us"
+    },
+    {
+      "z1": 2406,
+      "z2": 1641,
+      "type": "se"
+    },
+    {
+      "z1": 2672,
+      "z2": 1566,
+      "type": "us"
+    },
+    {
+      "z1": 2708,
+      "z2": 1202,
+      "type": "se"
+    },
+    {
+      "z1": 2774,
+      "z2": 1172,
+      "type": "us"
+    },
+    {
+      "z1": 2910,
+      "z2": 1152,
+      "type": "us"
+    },
+    {
+      "z1": 2970,
+      "z2": 1069,
+      "type": "us"
+    },
+    {
+      "z1": 3011,
+      "z2": 1014,
+      "type": "us"
+    },
+    {
+      "z1": 3124,
+      "z2": 635,
+      "type": "us"
+    },
+    {
+      "z1": 3325,
+      "z2": 334,
+      "type": "se"
+    }
+  ]
+}
