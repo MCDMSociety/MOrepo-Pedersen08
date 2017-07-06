@@ -53,5 +53,5 @@ see the [ReadMe.md](./convert/ReadMe.md) file in the `convert` folder.
  
 Restults are given in the `results` folder using the [json
 format](https://github.com/MCDMSociety/MOrepo/blob/master/contribute.md) (see Step 3). Results for
-`Tuyttens00` contributon is also given.
+`Tuyttens00` contributon are also given.
 
